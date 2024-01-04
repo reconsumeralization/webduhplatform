@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 reconsumeralization/webduhplatform is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -15,11 +16,13 @@ reconsumeralization/webduhplatform is built on the following main stack:
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 reconsumeralization/webduhplatform is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -33,14 +36,15 @@ reconsumeralization/webduhplatform is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/webduhplatform](https://github.com/reconsumeralization/webduhplatform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|11/09/23 <br/>Report generated|
+|29<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -192,7 +196,7 @@ Full tech stack [here](/techstack.md)
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|06/06/23|reconsumeralization |MIT|N/A|
 |[react-textarea-autosize](https://www.npmjs.com/react-textarea-autosize)|v8.4.0|06/06/23|reconsumeralization |MIT|N/A|
 |[remark](https://www.npmjs.com/remark)|v14.0.2|06/06/23|reconsumeralization |MIT|N/A|
-|[sharp](https://www.npmjs.com/sharp)|v0.31.3|06/06/23|reconsumeralization |Apache-2.0|N/A|
+|[sharp](https://www.npmjs.com/sharp)|v0.31.3|06/06/23|reconsumeralization |Apache-2.0|[](https://github.com/advisories/GHSA-54xq-cgqr-rpm3) (High)|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.2.4|06/06/23|reconsumeralization |MIT|N/A|
 |[unist-util-visit](https://www.npmjs.com/unist-util-visit)|v4.1.1|06/06/23|reconsumeralization |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|06/06/23|reconsumeralization |MIT|N/A|
@@ -200,4 +204,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
